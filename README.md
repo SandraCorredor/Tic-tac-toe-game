@@ -1,4 +1,4 @@
-# Tic Tac Toe Game
+<h1 align="center"> Tic Tac Toe Game  </h1>
 
 ## Description
 This project is a simple **Tic Tac Toe** game developed with **HTML**, **CSS**, and **JavaScript**. Players can choose between Crosses (X) or Circles (O) and take turns dragging and dropping their symbols into the grid. The game automatically checks for a winner or a draw after each move, making it a fun and interactive way to learn basic drag-and-drop functionality and game logic.
